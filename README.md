@@ -4,6 +4,15 @@
 - Nim : 311910583
 - Kelas : TI 19.A.3
 
+# Pertanyaan dan Tugas
+1. Membuat sebuah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir.
+![a](https://user-images.githubusercontent.com/59682730/117639012-a9227b80-b1ad-11eb-8b66-adab3b47e58c.PNG)
+![b](https://user-images.githubusercontent.com/59682730/117639019-ac1d6c00-b1ad-11eb-8fcd-8f237c054afc.PNG)
+![c](https://user-images.githubusercontent.com/59682730/117639025-ad4e9900-b1ad-11eb-82bb-49dd710b6fbc.PNG)
+
+2. Program berhasil dijalankan dan menampilkan form input nama, tanggal lahir dan juga posisi pekerjaan. serta output yang menampilkan sebuah nama, umur dan juga gaji
+![d](https://user-images.githubusercontent.com/59682730/117639136-cb1bfe00-b1ad-11eb-9e9c-883a5b714521.PNG)
+
 # Laporan Praktikum
 
 1. Melakukan praktikum dasar php dan membuat dengan subline text
